@@ -20,7 +20,6 @@ while (left < right) {
   }
 }
 
-throw new Error ("average not found");
-
+return false;
 }
 
